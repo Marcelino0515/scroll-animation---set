@@ -1,0 +1,9 @@
+#empower-images > div > img{
+    height: auto!important;
+}
+
+#team-images img{
+    height: auto!important;
+    width: auto!important;
+    margin: auto;
+}

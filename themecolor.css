@@ -1,0 +1,14 @@
+:root {
+  /* Light theme (default) */
+  --color-primary: black;
+  --color-secondary: #101010;
+  --color-tertiary: #888888;
+  --color-text: white;
+}
+
+[data-theme="light"] {
+  --color-primary: white;
+  --color-secondary: #efefef;
+  --color-tertiary: #999999;
+  --color-text: black;
+}
